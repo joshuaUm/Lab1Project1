@@ -1,3 +1,20 @@
+/// Lab No. 1		Project No. 1
+/// File Name: main.js
+/// @author: Joshua Um
+/// Date:  August 30, 2021
+///
+/// Problem Statement: Ask the user to enter three numbers, calculate the sum, product, and sum / product, then display the results.
+/// 
+/// 
+/// Overall Plan:
+/// 1) Print an initial welcoming message to the screen
+/// 2) Prompt the user for three integers
+/// 3) Calculate the sum of the integers
+/// 4) Calculate the product of the integers
+/// 5) Calculate the sum / product of the integers
+/// 6) Print the results of the 3 calculations 
+/// 
+
 using System;
 
 class Program {
